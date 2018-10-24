@@ -1,5 +1,5 @@
 <?php
 
-	echo "hello world";
-
+	echo "hello world, wx 2018 10 25";
+	
 ?>
